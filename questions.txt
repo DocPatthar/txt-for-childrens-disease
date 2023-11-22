@@ -1,11 +1,13 @@
 # In the X-ray image of the child, the horizontal bone level, partially collapsed lungs, the organs of the thoracic cavity have not moved. Diagnosis:
 + pyopneumothorax
 - tension pneumothorax
-- non-tension pneumothorax - tension pyopneumothorax
+- non-tension pneumothorax 
+- tension pyopneumothorax
 # The most convenient method of treatment for abscesses opened in the bronchi:
 +bronchoscopic sanation
 - radical operation
-- abscess puncture - abscess drainage
+- abscess puncture 
+- abscess drainage
 # What is the purpose of early gastric bypass?
 +to prevent scarring
 - to treat scarring
@@ -61,9 +63,11 @@
 # The most common route of infection in infants during the neonatal period
 + through the aerogenous way
 -through the skin
--through the digestive tract - umbilical wound
+-through the digestive tract 
+- umbilical wound
 # The duration of surgery for complete umbilical hernia.
-+1-3 months -4-6 months
++1-3 months 
+-4-6 months
 -0-1 month
 - 8-10 months
 # Yellowness is not observed when the path does not end: (select 3 answers)
@@ -106,7 +110,8 @@
 - Gastroduodenoscopy
 +X-ray of the abdominal cavity
 + Rectal examination with a finger
-#	What	signs	are	detected	in	acute	phlegmonous	appendicitis	in	children:	(select	2 answers) +Shetkin-Blumberg
+#	What	signs	are	detected	in	acute	phlegmonous	appendicitis	in	children:	(select	2 answers)
++Shetkin-Blumberg
 +Kocher-Volkovich
 - Filarov
 - Murphy
@@ -154,11 +159,12 @@
 - foreign body;
 - a fixed foreign body of the trachea
 -Bronx foreign body
-+ All answers are correct
++All answers are correct
 # Dysuria is common in children
 +for urolithiasis
 - nephroptosis
--hydronephrosis - polycystic
+-hydronephrosis 
+- polycystic
 # How to remove kidney stones in children:
 + pyelolithotomy
 - ureterolithotomy
@@ -207,7 +213,8 @@
 # Internal bleeding. Splenic rupture was suspected. His condition is serious. Instability of hemodynamics, recommendation:
 + laparoscopy
 -laparocentesis
-- Left burn, lying down with ice - laparotomy
+- Left burn, lying down with ice 
+- laparotomy
 # Indication for perforation of a stomach ulcer in a 10-year-old patient:
 +stitching the wound
 -removal of the wound and suturing of the defect
@@ -226,7 +233,8 @@
 # The main reason for the development of acute appendicitis in children:
 +any of the above signs or a combination of them
 - angioneurotic disorders
-- Change in the immunological state of the organism -characteristics of eating habits
+- Change in the immunological state of the organism 
+-characteristics of eating habits
 # How long does conservative treatment last for ulcerative colitis?
 +2-3 hours
 -6-12 hours
@@ -245,7 +253,8 @@
 # In a 15-day-old child with umbilical hernia, swelling and limitation of movements appeared around the right knee joint. Your recommendation:
 +bugim puncture, injection of the fluid of the cavity of the bugim
 - Blount drawing, antibacterial therapy
-- observation, conservative treatment - arthrotomy
+- observation, conservative treatment 
+- arthrotomy
 # Examination method in liver injuries
 +Laparoscopy
 - Esophagoscopy
@@ -269,7 +278,8 @@
 # Diagnosis of intestinal intussusception: (select 2 correct answers)
 +Pneumoirrigography
 - JKT passage
-+rectal finger examination -Rectoscopy
++rectal finger examination 
+-Rectoscopy
 # Which examination should be performed initially in children with intestinal obstruction:
 (select 2 correct answers)
 +Abdominal auscultation
@@ -287,12 +297,14 @@
 - after blushing
 - chest
 - throat
-# Acute catarrhal appendicitis in babies has the following symptoms: (select 2 correct answers) +Shetkin-Blumberg
+# Acute catarrhal appendicitis in babies has the following symptoms: (select 2 correct answers) 
++Shetkin-Blumberg
 -Bartome-Michelson
 -Kocher-Volkovich
 + Filatov
 - Murphy
-# It is determined by perforation of a vermiform tumor: (select 2 correct answers) +sudden pain in the right flank, against the background of the abatement of pain during the development of gangrene
+# It is determined by perforation of a vermiform tumor: (select 2 correct answers) 
++sudden pain in the right flank, against the background of the abatement of pain during the development of gangrene
 +muscle tension on the right side of the anterior abdominal wall, then spreading the tension to other areas
 - Leukocytopenia
 -Decreased body temperature
@@ -310,7 +322,8 @@
 # Pylorostenosis in newborns is detected by X-ray examination
 + After 24-26 weeks, the blood anemia is in the stomach and large intestine
 - After 1 hour, the contrast is in the stomach and partially in the intestines
-- After 2 hours, the contrast is in the small intestine - After 24 hours, the contrast is in the large intestine
+- After 2 hours, the contrast is in the small intestine 
+- After 24 hours, the contrast is in the large intestine
 # Which method is not an endoscopic method:
 +irrigography
 - kolonoscopy
@@ -326,7 +339,8 @@
 - Diplo blue
 - Appedicular
 - Tuberculosis
-# The child has sharp pains during defecation, constipation, a few drops of pink blood after defecation. Your diagnosis + Rectal polyp
+# The child has sharp pains during defecation, constipation, a few drops of pink blood after defecation. Your diagnosis 
++ Rectal polyp
 -Intestinal intussusception
 -Meckel's diverticulum
 -Rear exhaust hole crack
@@ -338,10 +352,12 @@
 # Cryptorchidism is the most serious complication when surgery is not performed
 +semenoma
 -testicular hypoplasia
-- retardation of mental and physical development -testicular tubercle
+- retardation of mental and physical development 
+-testicular tubercle
 # Cryptorchidism in the form of chow ectopia was detected in a 2-year-old child. At what age should surgery be done?
 +operation is performed without delay
-- up to 16 years old - up to 10 years old
+- up to 16 years old 
+- up to 10 years old
 - up to 12 years old
 # When is urine coming out of a complete umbilical fistula
 +uraxus is not finished
@@ -381,7 +397,8 @@
 # Acute form of Girshprong's disease in a newborn
 + right-sided colostomy placement
 - placing a left-sided colostomy
-- laparotomy, removing the constricted area and placing an anastomosis - emergency laparotomy
+- laparotomy, removing the constricted area and placing an anastomosis 
+- emergency laparotomy
 # When are the clinical signs of the acute form of Girshpro's disease observed
 +The first days after birth
 - 3-4 years old
@@ -400,13 +417,14 @@
 # Treatment for dynamic bowel obstruction:
 +conservative treatment, surgery when there is no effect
 - conservative treatment
-- operative treatment, then conservative - waiting tactics
+- operative treatment, then conservative 
+- waiting tactics
 # In what type of constipation does the stool have blood in it?
 + Intussusception
 - Obturation
-- Paralytic -spastic
-# A young boy suddenly started having stomach pain. The pain is strong and intermittent. The snow is not lumpy, soft. When the child squats, the pain decreases. He is not sick. In a state of collapse. X-ray shows a lot of Kloiberg's cells and a symptom of "swelling".
-Diagnosis?
+- Paralytic 
+-spastic
+# A young boy suddenly started having stomach pain. The pain is strong and intermittent. The snow is not lumpy, soft. When the child squats, the pain decreases. He is not sick. In a state of collapse. X-ray shows a lot of Kloiberg's cells and a symptom of "swelling". Diagnosis?
 + strangulation intestinal obstruction
 -spastic bowel obstruction
 -obstructive bowel obstruction
@@ -414,7 +432,8 @@ Diagnosis?
 # In a 3-year-old boy, the penis is bent downward, the hole is located in the middle, he urinates while sitting. Diagnosis. Doctor tactics.
 + hypospadias, intermediate type, the patient should be sent to the pediatric urology department
 - hypospadias head type, conservative treatment
-- hypospadias body, type, conservative treatment - A type of hypospadias
+- hypospadias body, type, conservative treatment 
+- A type of hypospadias
 # Inguinal hernia in children is mainly diagnosed with which disease:
 +With connecting link
 -with cryptorchidism
@@ -423,22 +442,24 @@ Diagnosis?
 # Complication of compressed inguinal hernia
 +compressed organ necrosis
 - Torsion of eggs
--Orchiepididymitis - Hydrocell
+-Orchiepididymitis 
+- Hydrocell
 # Hernia of the umbilical system is compared:
 + From gastroschisis
 - With aplasia of the anterior wall of the abdomen
 - With umbilical hernia
 - Paraumbilical hernia
-# The period of early swelling in the chemical treatment of the esophagus +6-8 days
+# The period of early swelling in the chemical treatment of the esophagus 
++6-8 days
 -2-3 days
 -2-3 days
 -20-25 days
 # During the operation, perforative appendicitis, purulent discharge, interspinal pus, intestines covered with fibrin, paresis and infiltration are detected. Must do:
 + lavage of the abdominal cavity after surgery
 - Laparoostomy
-- sanitation by washing the abdominal cavity - appendectomy, epidural anesthesia
-# The patient has acute hematogenous osteomyelitis of the femur. 2 days of illness.
-Puncture of the soft tissues around the inflamed bone did not reveal pus. Instructions:
+- sanitation by washing the abdominal cavity 
+- appendectomy, epidural anesthesia
+# The patient has acute hematogenous osteomyelitis of the femur. 2 days of illness. Puncture of the soft tissues around the inflamed bone did not reveal pus. Instructions:
 + cutting of soft tissues, osteoperforation
 - cutting of soft tissues
 - cutting the skin, osteoperforation
@@ -448,7 +469,8 @@ Puncture of the soft tissues around the inflamed bone did not reveal pus. Instru
 - bronchoscopic drainage
 -pleural puncture
 - bronchoscopy with bronchus catheterization
-# An inflamed infiltrate and necrotic tissue at its tip are detected in the neck area of a 14year-old patient. The general condition is of moderate severity. What disease is this characteristic of? + boil
+# An inflamed infiltrate and necrotic tissue at its tip are detected in the neck area of a 14year-old patient. The general condition is of moderate severity. What disease is this characteristic of? 
++ boil
 - carbuncle
 - phlegmon
 - furunculosis
@@ -472,9 +494,11 @@ Puncture of the soft tissues around the inflamed bone did not reveal pus. Instru
 -intestinal paresis
 -Meckel's diverticulum
 - mobile caecum
-# Which type of abdominal palpation is used to diagnose the inflammation of a vermiform tumor? +superficial
+# Which type of abdominal palpation is used to diagnose the inflammation of a vermiform tumor? 
++superficial
 - deep
-- comparison - manual
+- comparison 
+- manual
 # Duration of surgery for full urachus fistula.
 +4-12 weeks
 -4-6 weeks
@@ -523,12 +547,14 @@ Puncture of the soft tissues around the inflamed bone did not reveal pus. Instru
 # Meckel's diverticulum, which did not change during the operation for phlegmonous appendicitis, was detected. Your tactics:
 +Removal of Meckel's diverticulum
 - repair of the diverticulum
-- regular removal of diverticulum after 2-3 months - at the request of the surgeon
+- regular removal of diverticulum after 2-3 months 
+- at the request of the surgeon
 # Which type of diaphragmatic hernia is more common in children:
 + phrenopericardial
 - the front
 -esophageal opening
-- the back is fake - really
+- the back is fake 
+- really
 # Contrast material used in excretory urography:
 + Verografin
 - Knowledgeable
@@ -540,13 +566,15 @@ Puncture of the soft tissues around the inflamed bone did not reveal pus. Instru
 - Cystography
 - Fistulography
 # In what time is the X-ray examination method used in the diagnosis and treatment of intussusception:
-+10 - 12 hours -12 - 24 hours
++10 - 12 hours 
+-12 - 24 hours
 -24 - 36 hours
 -36 - 48 hours
 # Indication for esophagoplasty surgery
 +Esophageal stenosis with a long scar, which has not been helped by bubbling for +6 months.
 -Esophagitis of the 4th degree
-- short-distance scar narrowing of the esophagus. - Placement of 3rd degree esophagus
+- short-distance scar narrowing of the esophagus. 
+- Placement of 3rd degree esophagus
 # Colonoscopy is a method of examining which organ
 +Colon examination
 - Small bowel examination
@@ -555,7 +583,8 @@ Puncture of the soft tissues around the inflamed bone did not reveal pus. Instru
 # Pneumoirrigography is a method of examining which organ
 +Colon examination
 - Small bowel examination
-- Esophagus examination - Liver and bile ducts
+- Esophagus examination 
+- Liver and bile ducts
 # Bronchoscopy is:
 + Trachea and bronchi examination method
 -Method of instrumental examination of the lung
@@ -576,8 +605,7 @@ Puncture of the soft tissues around the inflamed bone did not reveal pus. Instru
 -Acute appendicitis
 - Strangulation bowel obstruction
 - Obstructive bowel obstruction
-# In the child, according to the anamnesis, stool did not come for 2 days. Abdomen is relaxed, soft to palpation, "mud" symptom is positive. A tympanic sound in percussion.
-Peristalsis increased during auscultation. Your diagnosis
+# In the child, according to the anamnesis, stool did not come for 2 days. Abdomen is relaxed, soft to palpation, "mud" symptom is positive. A tympanic sound in percussion.Peristalsis increased during auscultation. Your diagnosis
 +Obturative bowel obstruction
 - Strangulation bowel obstruction
 - Paralytic intestinal obstruction
@@ -585,11 +613,13 @@ Peristalsis increased during auscultation. Your diagnosis
 # TYPE OF PATHOLOGY: TREATMENT TACTICS: 1. Double cryptorchidism 2. false cryptorchidism. 3. Left-sided cryptorchidism a. Does not require treatment b. When hormonal treatment is ineffective, surgery v. Operative treatment
 -1-v, 2-b, 3-a
 +1-b, 2-a, 3-v
--1-a, 2-b, 3-a -1-a, 2-v, 3-b
+-1-a, 2-b, 3-a 
+-1-a, 2-v, 3-b
 -1-v, 2-a, 3-b
 # Type of bowel obstruction: X-RAY EXAMINATION: 1. Pylostenosis 2. Hirschprong's disease 3. Intussusception A. Barium irrigography B. pneumoirrigography V. IT barium examination according to Levin
 +1V, 2A, 3B
--1A, 2V, 3B -1B, 2A, 3V
+-1A, 2V, 3B 
+-1B, 2A, 3V
 -1B, 2V, 3A
 -1A, 2B, 3V
 # PATHOLOGY: TACTICS: 1. Anorchism 2. Polyorchism 3. True cryptorchidism 4. False cryptorchidism A. Hormonal treatment B. Removal of extra testicle V. Testicle work after 2 years G. Does not require treatment
@@ -598,11 +628,11 @@ Peristalsis increased during auscultation. Your diagnosis
 +1A, 2B, 3V, 4G
 -1V, 2G, 3B, 4A
 -1V, 2B, 3G, 4A
-# PATHOLOGY: CAUSES OF PATHOLOGY: 1. Enterocystoma 2. Ledda's Syndrome 3.
-Pylorostenosis A. Hypertrophy of the privratnik muscles B. Disruption of the physiological torsion of the intestines V. Obliteration disorder of the jaundiced medulla
+# PATHOLOGY: CAUSES OF PATHOLOGY: 1. Enterocystoma 2. Ledda's Syndrome 3.Pylorostenosis A. Hypertrophy of the privratnik muscles B. Disruption of the physiological torsion of the intestines V. Obliteration disorder of the jaundiced medulla
 - 1V, 2B, 3A
 - 1B, 2A, 3V
-- 1B, 2V, 3A - 1A, 2V, 3B
+- 1B, 2V, 3A 
+- 1A, 2V, 3B
 + 1A, 2B, 3V
 # Small - the main cause of intussusception of the small intestine:
 + age-specific dyscoordination of peristalsis
@@ -622,7 +652,8 @@ Pylorostenosis A. Hypertrophy of the privratnik muscles B. Disruption of the phy
 # In a 10-day-old child whose umbilical cord was wet, swelling and movement restriction appeared around the right knee joint. Your recommendation:
 + bugim puncture, injection of the fluid of the cavity of the bugim
 - Blount drawing, antibacterial therapy
-- observation, conservative treatment - arthrotomy
+- observation, conservative treatment 
+- arthrotomy
 # Examination method in liver rupture
 + Laparoscopy
 - Esophagoscopy
@@ -636,7 +667,8 @@ Pylorostenosis A. Hypertrophy of the privratnik muscles B. Disruption of the phy
 # Free air in the abdominal cavity is detected in a general x-ray for a patient with a closed injury to the emergency pediatric surgery department. Recommended:
 + Laparotomy
 - sonography
-- Ultrasound examination -Dynamic tracking
+- Ultrasound examination 
+-Dynamic tracking
 # Signs of 1st degree of esophagitis in children:
 - Catarrhal inflammation of mucous membrane, edema, hyperemia
 - Mucous layer deep
@@ -645,9 +677,9 @@ Pylorostenosis A. Hypertrophy of the privratnik muscles B. Disruption of the phy
 # Diagnosis of intestinal intussusception in children: (select 2 correct answers)
 + Pneumoirrigography
 - JKT passage
-+ rectal finger examination - Rectoscopy
-# Which diagnosis should be performed initially in case of acute intestinal obstruction:
-(select 2 correct answers)
++ rectal finger examination 
+- Rectoscopy
+# Which diagnosis should be performed initially in case of acute intestinal obstruction:(select 2 correct answers)
 - Pneumoirrigography
 - Gastroduodenoscopy
 + X-ray of the abdominal cavity
@@ -674,11 +706,11 @@ Pylorostenosis A. Hypertrophy of the privratnik muscles B. Disruption of the phy
 + Gastric product in gastric perforation
 - Moistening of grass
 - Air in the abdominal cavity during laparoscopic procedures
-
-intestinal mass does not come out into the abdominal cavity
+-intestinal mass does not come out into the abdominal cavity
 # The most effective method of examining non-radiocontrast foreign bodies in children...
 + bronchoscopy
-- percussion - Ultrasound
+- percussion 
+-Ultrasound
 - auscultation
 # In a patient born with pylorostenosis, X-ray examination reveals:
 + After 24 days, the blood anemia in the stomach and large intestine
@@ -688,7 +720,8 @@ intestinal mass does not come out into the abdominal cavity
 # The operation used in pylorostenosis
 + Pyleomorphic anemia
 - Pyloroecto brain
-- Pilorosto- brain - Pyloroplast
+- Pilorosto- brain 
+- Pyloroplast
 # Echinococcosis
 + parasitic disease
 - a viral disease
@@ -712,14 +745,16 @@ intestinal mass does not come out into the abdominal cavity
 # The most common route of infection in newborns
 + through the respiratory tract
 - through the skin
-- through the digestive tract - umbilical wound
+- through the digestive tract 
+- umbilical wound
 # Duration of surgery for complete umbilical hernia.
-+ 1-3 months - 4-6 months
++ 1-3 months 
+- 4-6 months
 - 0-1 month
 - 8-10 months
 # It is not observed when the jaundice does not end after birth:
 + Meckel's diverticulum
-Full fistula of the navel
+-Full fistula of the navel
 - incorrect fistula of the navel
 - urinary fistula
 # It is the main method of diagnosis when urachus related to the urinary bag does not end
@@ -762,10 +797,11 @@ Full fistula of the navel
 # Diagnosis of intussusception:
 + Pneumoirrigography
 - JKT passage
-- Bronchography - Rectoscopy
+- Bronchography 
+- Rectoscopy
 # Causes of constipation:
 + all answers are correct
-Spastic ileus;
+-Spastic ileus;
 - Intestinal penetration;
 - Twisting;
 # Show true types of cryptorchidism (select	3 answers)
@@ -783,7 +819,8 @@ Spastic ileus;
 - rectal polyp
 - opening of the posterior anal opening
 - Meckel diverticulum
-# A 6-year-old child periodically has a small amount of red blood coming out of the rectum during defecation. Diagnosis: + rectal polyp
+# A 6-year-old child periodically has a small amount of red blood coming out of the rectum during defecation. Diagnosis: 
++ rectal polyp
 - Meckel's diverticulum
 - gastric ulcer disease
 - bleeding in the abdominal cavity
@@ -796,14 +833,14 @@ Spastic ileus;
 # In a 6-year-old child, early radiological signs of acute hematogenous osteomyelitis in the distal metadiaphysis of the femur appear:
 + in the 3rd week;
 - in the 2nd week;
-- During the first week; -	After a month.
-# 7-year-old child has pain all over the abdomen, frequent bowel movements, abdominal rest, abdominal pain and tension. The temperature is 38.4C, he has been sick for 2 days. Your diagnosis: + peritonitis
+- During the first week; 
+-	After a month.
+# 7-year-old child has pain all over the abdomen, frequent bowel movements, abdominal rest, abdominal pain and tension. The temperature is 38.4C, he has been sick for 2 days. Your diagnosis: 
++ peritonitis
 - gastric ulcer
 - Pancreatitis
 - gastritis
-# Pain in the right side of an 8-year-old child. Urinalysis revealed 4-6 leukocytes, tactics of
-
-an outpatient doctor-pediatrician.
+# Pain in the right side of an 8-year-old child. Urinalysis revealed 4-6 leukocytes, tactics of an outpatient doctor-pediatrician.
 - sending to the surgical inpatient ward
 + above all are correct
 - sending to a somatic inpatient ward
@@ -821,11 +858,13 @@ an outpatient doctor-pediatrician.
 # Which disease does not cause diarrhea in young children:
 + hypothyroidism;
 - mental constipation;
-- Hirshprong's disease; - salmonellosis;
+- Hirshprong's disease; 
+- salmonellosis;
 # Pulmonary echinococci is differentiated?
 + all answers are correct
 - non-parasitic lung cyst
-- pulmonary tuberculosis - diaphragmatic hernia
+- pulmonary tuberculosis 
+- diaphragmatic hernia
 # The main method in the diagnosis of pulmonary echinococcosis?
 + radiological
 - ultrasound examination
@@ -854,20 +893,24 @@ an outpatient doctor-pediatrician.
 # The time of appearance of clinical signs in congenital narrowing of the anus
 + after starting to give additional food
 - After giving 1 food
-- at the end of day 1 -	After 1 year
+- at the end of day 1
+-	After 1 year
 # The following operation is used for ectopy of the anal opening:
-+ Stone-Benson. - Hartman;
++ Stone-Benson. 
+- Hartman;
 - Deffenbach;
 - Soave-Lenyushkin;
 # Prolonged anal fissure can lead to complications:
 + anus scar narrowing
 - anoproctitis;
-- rectal prolapse; - rectal polyp.
+- rectal prolapse; 
+- rectal polyp.
 # Treatment for anal fissure is as follows:
 - diathermocoagulation.
 - antibotics;
 - external sphincter cutting;
-- Devulsion of the anal hole + all are right
+- Devulsion of the anal hole 
++ all are right
 # Is this Anuria?
 + kidney failure to secrete urine
 - peeing while wearing clothes
@@ -876,13 +919,16 @@ an outpatient doctor-pediatrician.
 # What types of anuria do you know?
 + postrenal, renal, prerenal
 - posttraumatic
-- infectious - toxic
+- infectious 
+- toxic
 # Atresia of the anus, when and in what position is Vangesten X-ray taken?
 + After +18-24 hours, with the leg up
 - After 4-6 weeks, in a vertical position
-- immediately after birth, in a horizontal position - After 12 hours, lying on the stomach
+- immediately after birth, in a horizontal position 
+- After 12 hours, lying on the stomach
 # Complicated umbilical hernia should be treated in children?
-+ upon diagnosis. - chest young
++ upon diagnosis. 
+- chest young
 - up to 2 years old
 - From 3-5 years old
   Complicated umbilical hernia should be treated in children? + Upon diagnosis.
@@ -892,7 +938,8 @@ an outpatient doctor-pediatrician.
 # Optimal method of treatment of uncomplicated pulmonary echinococci
 + operative
 - conservative
-- conservative, if ineffective, proactive - cuncture
+- conservative, if ineffective, proactive
+- cuncture
 # Which type of atypical appendicitis does not exist?
 + Mesoperitoneal
 - Chanok
@@ -913,7 +960,7 @@ an outpatient doctor-pediatrician.
 - physiotherapeutic
 - circumsizio
 - phytotherapy
-# What disease is characterized by deformation of the tips of the fingers in the form of "drumsticks" and nails in the form of "hourglass":
+# What disease is characterized by deformation of the tips of the fingers in the form of "drumsticks" and nails in the form of "hourglass"
 + bronchiectasis disease
 - pulmonary echinococcosis
 - pyothorax
@@ -928,8 +975,7 @@ an outpatient doctor-pediatrician.
 - foreign body in the bronchus
 - foreign body stuck in the trachea
 - bleeding
-
-  The patient was diagnosed with intestinal intussusception. It's been 20 hours since the onset of the disease, your tactics:
+# The patient was diagnosed with intestinal intussusception. It's been 20 hours since the onset of the disease, your tactics:
 + urgent laparotomy;
 - colonoscopy
 - irrigography
@@ -937,8 +983,10 @@ an outpatient doctor-pediatrician.
 # The patient has symptoms of late bowel obstruction. Symptoms of exicosis and toxicosis are evident. Your tactics:
 + no answer is right
 - operation;
-- first conservative, if it does not help, operative treatment; - conservative treatment;
-# It is determined by perforation of a vermiform tumor: (select 2 correct answers) +sudden pain in the right flank, against the background of the abatement of pain during the development of gangrene
+- first conservative, if it does not help, operative treatment; 
+- conservative treatment;
+# It is determined by perforation of a vermiform tumor: (select 2 correct answers) 
++sudden pain in the right flank, against the background of the abatement of pain during the development of gangrene
 +muscle tension on the right side of the anterior abdominal wall, then spreading the tension to other areas
 - Leukocytopenia
 -Decreased body temperature
@@ -956,18 +1004,20 @@ an outpatient doctor-pediatrician.
 # Pylorostenosis in newborns is detected by X-ray examination
 + After 24-26 weeks, the blood anemia is in the stomach and large intestine
 - After 1 hour, the contrast is in the stomach and partially in the intestines
-- After 2 hours, the contrast is in the small intestine - After 24 hours, the contrast is in the large intestine
+- After 2 hours, the contrast is in the small intestine 
+- After 24 hours, the contrast is in the large intestine
 # Which method is not an endoscopic method:
 +irrigography
 - kolonoscopy
 - laparoscopy
-- Esophagoscopy -After 1 year
+- Esophagoscopy 
+-After 1 year
 # At what age is intestinal intussusception common?
 +4 months to 1 year
 - During the newborn period
 -up to 3 months
 -up to 6-8 months
-    The	patient	has	vaginal	ectopia	of	the	accessory	ureter	and	advanced ureterohydronephrosis,	the	contralateral	kidney	is	functioning	normally,	determine	the rational treatment method
+# The	patient	has	vaginal	ectopia	of	the	accessory	ureter	and	advanced ureterohydronephrosis,	the	contralateral	kidney	is	functioning	normally,	determine	the rational treatment method
 + geminefrureterectomy
 - nephrectomy
 - heminephrectomy
@@ -982,8 +1032,7 @@ an outpatient doctor-pediatrician.
 - 3-5 years old
 - 1-2 years old
 - 10-12 years old
-# The child drank a cultum vinegar essence and was immediately admitted to the hospital.
-what is necessary to wash the stomach with?
+# The child drank a cultum vinegar essence and was immediately admitted to the hospital. what is necessary to wash the stomach with?
 + with alkaline solution
 - with acid
 - with cold water
@@ -995,17 +1044,21 @@ what is necessary to wash the stomach with?
 - puncture of testicles (puncture);
 # When a child has a tension pneumothorax, it is necessary to conduct:
 + Pleural puncture;
-- Operative treatment; - Bronchoscopy; - Follow-up.
+- Operative treatment; 
+- Bronchoscopy; 
+- Follow-up.
 # Which disease is indicated by a child's inability to defecate since infancy and an enlarged belly?
 + Girschprong's disease
 - the absence of jaundice
 - Ledda's syndrome
 - Dolichosigma
+
 # Final examination method in the diagnosis of "dumb kidney" in children
 + radioisotope testing
 - infusion urography
 - renal angiography
 - determination of partial kidney function
+
 # Contraindications for anuria in children?
 + excretory urography
 - X-ray imaging of urinary organs
@@ -1029,7 +1082,8 @@ what is necessary to wash the stomach with?
 # When was pediatric specialty surgery established
 + at the end of the last century
 - At the beginning of the last century
-- In the middle of the last century - In this century
+- In the middle of the last century 
+- In this century
 # Which method is used to diagnose congenital esophageal stenosis in children?
 + Esophagoscopy
 - Gastrofibroscopy
@@ -1038,30 +1092,35 @@ what is necessary to wash the stomach with?
 # Planned for uncomplicated hernias of the umbilical system in children duration of operative treatment?
 + upon diagnosis.
 - chest age.
-- up to 2 years old. - 3-5 years old.
+- up to 2 years old. 
+- 3-5 years old.
 # When the umbilical hernia is compressed in children, which organ is often compressed:
 + small intestine;
 - big charvi;
-- large intestine; - liver;
+- large intestine; 
+- liver;
 # A foreign body in the respiratory tract in children is not included in the late complications:
 + pneumonia
 - bronchiectasis
-- tracheobronchitis - bleeding
+- tracheobronchitis 
+- bleeding
 # Foreign body in the respiratory tract in children is not included in the early complications:
 + bronchiectasis
 - pneumonia
-- tracheobronchitis - bleeding
+- tracheobronchitis 
+- bleeding
 # In which disease is oliguria observed in children?
-
 + acute glomerulonephritis
 - diabetes without sugar
-- chronic pyelonephritis - nodular periarteritis
+- chronic pyelonephritis 
+- nodular periarteritis
 # What is oliguria in children characterized by?
 + Chronic pyelonephritis
 - Diabetes without sugar
 - Acute glomerulonephritis
 - Nodular periarteritis
-# Acute bleeding from the gastrointestinal system in children is characteristic of the following diseases: + all answers are correct
+# Acute bleeding from the gastrointestinal system in children is characteristic of the following diseases: 
++ all answers are correct
 - Portal hypertension;
 - Stomach and duodenal ulcer disease;
 - Meckel's diverticulum;
@@ -1073,40 +1132,48 @@ what is necessary to wash the stomach with?
 #	Determine the characteristics of rectal polyp bleeding in children:
 + worms bleed after garbage;
 - dark-colored litter (degteobrasny chair);
-- liquid feces mixed with blood; - blood is mixed with feces;
+- liquid feces mixed with blood; 
+- blood is mixed with feces;
 # Amount of alcohol taken per kg of weight for sclerotherapy in rectal prolapse in children:
 + 1.4 ml;
-- 0.4 ml; - 0.8 ml;
+- 0.4 ml; 
+- 0.8 ml;
 - 0.2 ml;
 # The main symptom of acute appendicitis in children?
 + Filatov's symptom and tension of the anterior abdominal wall muscles
 - Shetkin-Blumberg symptom
 - Vaalya symptom
 - Voskresensky symptom
-# The main reason for the appearance of hernias in children: + abdominal peritoneum is not attached;
+# The main reason for the appearance of hernias in children: 
++ abdominal peritoneum is not attached;
 - the dimensions of the channel surface hole should be large;
 - the child cries a lot;
 - the child has frequent colds;
 # State the main reason for the development of inguinal hernia in children:
 + abdominal end of the vaginal mucosa
 - the width of the cavity
-- poor development of the anterior wall of the abdomen - constipation and flatulence
-# Indication for urgent cystoscopy in children? + in macrohematuria
+- poor development of the anterior wall of the abdomen 
+- constipation and flatulence
+# Indication for urgent cystoscopy in children? 
++ in macrohematuria
 - in kidney colic
 - in anuria
 - acute urinary retention
 # The most common complication of echinococcal cysts in children
 + suppuration
 - calcification
-- rupture (perforation) - bleeding
+- rupture (perforation) 
+- bleeding
 # In which organ are the most common closed injuries of the abdominal cavity in children?
 + spleen
 - liver
-- Stomach - gut
+- Stomach 
+- gut
 # A hernia that is common in childhood?
 + Chow's hernia
 - Umbilical hernia
-- Embryonic hernia - Hip hernia
+- Embryonic hernia 
+- Hip hernia
 # The most common hernia in childhood?
 + Inguinal hernia
 - umbilical hernia
@@ -1115,7 +1182,8 @@ what is necessary to wash the stomach with?
 # The main diagnostic method of bronchiectasis disease:
 + bronchography
 - EGFDS
-- X-ray of the chest - angiography
+- X-ray of the chest 
+- angiography
 # Renal aplasia will be similar according to the clinical course?
 + multilocular cyst
 - multicystosis
@@ -1131,7 +1199,7 @@ what is necessary to wash the stomach with?
 - macrohematuria
 - shock
 - fever, fever, vomiting
-# Kidney structural abnormalities are not included:
+# Kidney structural abnormalities are not included:(THERE ARE NO CORRECT ANSWERS IN THIS)
 - Multicystosis
 - Polycystosis
 - agnesia
@@ -1149,7 +1217,8 @@ what is necessary to wash the stomach with?
 # The method of determining the functional activity of the kidneys
 + Excretor
 - Urofluometry
-- Removal of the kidneys - Computed tomography
+- Removal of the kidneys 
+- Computed tomography
 # What disease is characterized by the inability to urinate with dropsy when the kidney is full
 + ectopy of the accessory urethra in girls
 - ectopy of the accessory urethra in boys
@@ -1158,24 +1227,28 @@ what is necessary to wash the stomach with?
 # In which disease is Vangesten's examination performed?
 + in the non-fistula type of anal atresia
 - in the fistula type of anal hole atresia
-- Girsprong's disease - in ectopia of the anal opening
+- Girsprong's disease 
+- in ectopia of the anal opening
 # Varicocele specific sign:
 + palpation of worm-like organisms in the blanket;
 - testicle size increase;
-- decrease in the size of the testicle; - swelling of the blanket;
+- decrease in the size of the testicle; 
+- swelling of the blanket;
 # What can cause varicocele:
 + the height of the pressure in the renal vein;
 - general increase in blood pressure;
-- diseases of the testicle and its appendages; - increased pressure in the testicular artery;
+- diseases of the testicle and its appendages; 
+- increased pressure in the testicular artery;
 # The examination program for a baby with gastro-oesophageal reflux includes:
 + all answers are correct
 - Anamnesis collection
-- Fibroesophagogastroscopy - Contrast roentgenography
+- Fibroesophagogastroscopy 
+- Contrast roentgenography
 # In gastro-esophageal reflux, it is determined in the analysis:
 + The acid-alkaline environment is normal
 - Metabolic alkalosis;
 - Metabolic acidosis;
-Hypokalemia;
+-Hypokalemia;
 # Show complications of hydronephrosis!
 + pyuria
 - hematuria
@@ -1184,7 +1257,8 @@ Hypokalemia;
 # What type of anomaly are hypoplasia and polycystic kidney
 + structural anomalies
 - location anomalies
-- anomalies of interposition - thigh anomalies
+- anomalies of interposition 
+- thigh anomalies
 # What is hypospadias?
 + Absence of back wall of urethra
 - absence of the front wall of the urethra
@@ -1193,11 +1267,13 @@ Hypokalemia;
 # Types of hypospadias include:
 + everything shown
 - body type
-- type of blanket - type of tool
+- type of blanket 
+- type of tool
 # What is important in the etiology of Girshprong's disease:
 + congenital lack of parasympathetic nerve endings in the intestinal wall;
 - hyperplasia of intestinal wall muscles;
-- congenital narrowing of the intestine; - organic stool in the intestine.;
+- congenital narrowing of the intestine; 
+- organic stool in the intestine.;
 # The main x-ray diagnostic method in Girshpro's disease:
 + irrigography with barium;
 - pneumorrhigoscopy;
@@ -1226,11 +1302,13 @@ Hypokalemia;
 # Girshprong's disease is based on:
 + division of aganglionic zones in the wall of the large intestine;
 - intestinal muscle cavity hypertrophy;
-- intestinal mucus. and submucosal diseases; - toxic dilatation of the colon;
+- intestinal mucus. and submucosal diseases; 
+- toxic dilatation of the colon;
 # The main X-ray sign of Girshpro's disease:
 + to move the narrowed area into a funnel-shaped expansion;
 - uniform narrowing of the intestines;
-- uniform expansion of intestines; - retention of the contrast agent;
+- uniform expansion of intestines; 
+- retention of the contrast agent;
 # Which form of Girshpro's disease is most common:
 + rectosigmoidal;
 - subtotal;
@@ -1241,7 +1319,7 @@ Hypokalemia;
 - rectosigmoidal;
 - rectal;
 - subtotal;
-# In which disease "raspberry jelly" is separated from the rectum
+# In which disease "raspberry jelly" is separated from the rectum:
 + intestinal intussusception
 - in stomach and 12-finger intestinal ulcer
 - in portal hypertension
@@ -1253,28 +1331,34 @@ Hypokalemia;
 - Atresia of the distal part of the 12th intestine;
 # Which drug has mucolytic properties:
 + Potassium iodine
-- Penicillin. - Analgin.
+- Penicillin. 
+- Analgin.
 - Kontrikal.
 # What kind of peritonitis is considered aseptic?
 + Spatial
 - Perforative
-- Appendicular - Cryptogen
+- Appendicular 
+- Cryptogen
 # In what cases pneumoirrigoscopy is used to treat intussusception:
-- 12 hours from the onset of the disease; if the time of onset of the disease is unknown;
+- 12 hours from the onset of the disease; 
+-if the time of onset of the disease is unknown;
 - in the first 24 hours;
 + in all cases;
 # Characteristic symptom for cardia chalasia
 + vomiting since infancy, especially in a horizontal position
 - bloody vomiting
-- come back often like grass - milky return
+- come back often like grass 
+- milky return
 # What kind of sputum is typical for Kartagener's syndrome:
 + Sputum is not observed.
 - Bloody.
-- Purulent. - Slimy.
+- Purulent. 
+- Slimy.
 # Uncharacteristic sign for Kartagener's syndrome:
 + Deformation of joints.
 - Placement of members on opposite sides.
-- Sinusitis. - Rhinitis.
+- Sinusitis. 
+- Rhinitis.
 # Big hematoma treatment tactics
 + removal of blood by puncturing the hematoma and applying 3-4 pressure bandages
 - cold, hot during pushing
@@ -1283,16 +1367,21 @@ Hypokalemia;
 # Area of pleural cavity puncture in case of pyothorax in adult children?
 + between the VI-VII ribs along the middle subclavian line
 - between the III-IV ribs along the front subclavian line
-- between the III and IV ribs along the back-scapular line - between the VII-VIII ribs on the back subclavian line
+- between the III and IV ribs along the back-scapular line 
+- between the VII-VIII ribs on the back subclavian line
 # Field of pleural puncture in case of pneumothorax in adult children?
 + between the III-IV ribs along the front subclavian line
 - between the III-IV ribs along the posterior subclavian line
-- between the VI-VII ribs along the middle subclavian line - between the VII-VIII ribs on the back subclavian line
+- between the VI-VII ribs along the middle subclavian line 
+- between the VII-VIII ribs on the back subclavian line
 # When a complete umbilical fistula appears:
 + if there is no obliteration in jaundice and ureters;
 - if obliteration occurs in the distal part of the ureter and the ureter;
-- if there is obliteration in the proximal part of the ureter and the ureter; - jaundice and full bladder. when obliterated;
-# Depending on the course, there may be mechanical intestinal obstruction? + acute, chronic, subacute, relapsing -	early, late.
+- if there is obliteration in the proximal part of the ureter and the ureter;
+- jaundice and full bladder. when obliterated;
+# Depending on the course, there may be mechanical intestinal obstruction? 
++ acute, chronic, subacute, relapsing 
+-	early, late.
 - light, medium, heavy
 - compensated, decompensated
 # Esophageal atresia and fistula are manifested by the following.
@@ -1303,7 +1392,8 @@ Hypokalemia;
 # What is the simplest test for suspected esophageal atresia?
 + passing a probe into the stomach
 - red contrast X-ray
-- radiography of the abdominal cavity - esophagoscopy
+- radiography of the abdominal cavity 
+- esophagoscopy
 # Esophageal achalasia is this?
 + narrowing of the cardiac part of the esophagus
 - enlargement of the cardiac part after redness
@@ -1312,9 +1402,13 @@ Hypokalemia;
 # Tactics of treatment of the bodies of the first physiological narrowing of the esophagus?
 + correct laryngoscopy
 - esophagoscopy
-- mediastinotomy - esophagotomy
-# The first esophagoscopy is performed in the setting of the esophagus: + 1.5-6 days - in 1-2 days
-- in 3-4 days - in 10 days
+- mediastinotomy 
+- esophagotomy
+# The first esophagoscopy is performed in the setting of the esophagus: 
++ 1.5-6 days 
+- in 1-2 days
+- in 3-4 days 
+- in 10 days
 # It is observed in esophageal burning?
 + everything is correct
 - hypersalivation
@@ -1336,15 +1430,20 @@ Hypokalemia;
 - slimy floor
 - mucous, submucosal, muscular and serous cavity
 # Apply the esophagoplasty method for scar strictures after esophagectomy:
-+ Esophageal plastic from large intestine - Pyloroplasty - Cardiomyotomy.
++ Esophageal plastic from large intestine 
+- Pyloroplasty 
+- Cardiomyotomy.
 - Soave-Lenyushkin operation
 # What material is used for plastic esophagus?
-+ large intestine empty stomach
-- small intestine - ileum
++ large intestine 
+- empty stomach
+- small intestine 
+- ileum
 # The main method of treatment for esophageal scar narrowing?
 + direct boiling
 - threading
-- boil through a gastrostomy - esophagoscopy
+- boil through a gastrostomy 
+- esophagoscopy
 # What measures should be taken when bleeding from the esophagus (select 3 answers)?
 + conservative measures
 + Placing the Blackmore probe
@@ -1369,29 +1468,39 @@ Hypokalemia;
 # How many stages of the disease of chemical esophageal stricture are distinguished
 + 3
 - 2
-- 4 of them - 5
+- 4 of them 
+- 5
 # Duration of diagnostic esophagoscopy for chemical burns of the esophagus?
 + 5-7 days
 - 10-15 days
-- 20-25 days - 1 month
-# In what period is the scar narrowing of the esophagus after implantation observed? + 1-2 months
+- 20-25 days 
+- 1 month
+# In what period is the scar narrowing of the esophagus after implantation observed? 
++ 1-2 months
 - 10-20 days
-- 6 months - 1 year - 3-4 months
+- 6 months 
+- 1 year 
+- 3-4 months
 # Navel Fungus, this?
 + granulation tissue in the umbilical cord.
 - complete umbilical fistula.
-- incorrect umbilical fistula. - Omphalite.
+- incorrect umbilical fistula. 
+- Omphalite.
 
 # Treatment of umbilical cyst:
 + operative treatment.
 - tumor puncture.
-- Sending a 10% solution of silver nitrate. - conservative treatment.
-# Is the umbilical system herniated depending on the diameter? + small, medium, large - small, medium, spherical.
+- Sending a 10% solution of silver nitrate. 
+- conservative treatment.
+# Is the umbilical system herniated depending on the diameter? 
++ small, medium, large 
+- small, medium, spherical.
 - big, small.
 - medium, large
 # The differential diagnosis of umbilical hernia is carried out mainly?
 + Gastroschisis.
-- Aplasia of the anterior abdominal wall - Umbilical hernia.
+- Aplasia of the anterior abdominal wall 
+- Umbilical hernia.
 - Congenital umbilical fistula.
 # Terms of operative treatment of hernia of the umbilical system?
 + From +3-5 years old
@@ -1411,7 +1520,8 @@ Hypokalemia;
 # Differential diagnosis of hernia of the umbilical system is carried out mainly:
 + Gastroschisis.
 - aplasia of the muscles of the anterior wall of the abdomen.
-- umbilical hernia. - congenital umbilical fistulas
+- umbilical hernia. 
+- congenital umbilical fistulas
 # Miatostenosis is it?
 + narrowing of the urethral opening
 - narrowing of the urethra
@@ -1420,23 +1530,28 @@ Hypokalemia;
 # Duration of operative treatment of scrotum and spermatic cord syndrome:
 + at +6 months;
 - after diagnosis;
-- after 1.5 years; - after 5 years;
-# Marks on the ischium connecting the testicles with the abdominal cavity: + swelling decreases in the morning
+- after 1.5 years;
+- after 5 years;
+# Marks on the ischium connecting the testicles with the abdominal cavity: 
++ swelling decreases in the morning
 + increasing in the evening;
-- the swelling increases in the morning - shrinking in the evening;
+- the swelling increases in the morning 
+- shrinking in the evening;
 # Multicystic dysplasia is:
 + One kidney is completely replaced by a cystic space;
 - Many cysts are not included in the cyst;
 - One cyst in the kidney parenchyma;
 - Both kidneys were completely replaced by a cystic cavity.
-# How many stages of the disease are there in the classification of chronic kidney failure
-(SBE) proposed by N.A. Lopatkin (1972)
-- 4 - 5 - 2
+# How many stages of the disease are there in the classification of chronic kidney failure (SBE) proposed by N.A. Lopatkin (1972)
+- 4 
+- 5 
+- 2
 + 3 of them
 # What are the late complications of asthma?
 + bronchiectasis
 - pneumonia
-- trachobronchitis - bleeding
+- trachobronchitis 
+- bleeding
 # Are there more bodies in the airways?
 + in the right lung
 - in the Khykildok area
@@ -1445,25 +1560,30 @@ Hypokalemia;
 # Show the method of removing the iodine body from the airways:
 + tracheobronchoscopy
 - tracheostomy
-- operative method - esophagoscopy
+- operative method 
+- esophagoscopy
 # Why does "physiological embryonic hernia" appear:
 + as a result of proportionality disorder in the development of intestines and abdominal cavity.
 - due to the small size of the abdominal cavity;
 - due to rapid growth of parenchymatous organs;
 - due to the expansion of the umbilical cavity;
-# When the operation is performed in the case of a normally developed back exit hole and a rectovaginal fistula: + After diagnosis
+# When the operation is performed in the case of a normally developed back exit hole and a rectovaginal fistula: 
++ After diagnosis
 - one and a half years old
-- at the age of 3-4 - at the age of 7
+- at the age of 3-4 
+- at the age of 7
 # Omphalite is this?
 + inflammation of the umbilical cord
-- inflammation of nail phalanges - inflammation of hair follicles
+- inflammation of nail phalanges 
+- inflammation of hair follicles
 - inflammation of lymph nodes.
 # A common complication after intermediate proctoplasty?
 + inability to hold waste
 - Urinary atony
 - anal stenosis
 - chronic constipation
-# A common complication after reoperation for intermediate proctoplasty? + anus stenosis.
+# A common complication after reoperation for intermediate proctoplasty? 
++ anus stenosis.
 - Urinary atony
 - bleeding
 - intestinal dysbacteriosis
@@ -1491,7 +1611,8 @@ Hypokalemia;
 # Diagnosis of intussusception:
 + Pneumoirrigography
 - JKT passage
-- Bronchography - Rectoscopy
+- Bronchography 
+- Rectoscopy
 # Causes of constipation:
 + all answers are correct
 - Spastic ileus;
@@ -1515,7 +1636,8 @@ Hypokalemia;
 # When bleeding is suspected in peptic esophagitis, it is necessary to check:
 + FEGDS;
 - Radioisotope testing;
-- Dopplerography and UTT of the portal vein system; - Laparoscopy;
+- Dopplerography and UTT of the portal vein system; 
+- Laparoscopy;
 # Complications of peritonitis:
 + All answers are correct
 - subdiaphragmatic abscess
@@ -1524,7 +1646,8 @@ Hypokalemia;
 # Vomiting typical of pyloric stenosis?
 + recently eaten sour-smelling vomit
 - vomiting bile
-- vomiting with intestinal mass - constant vomiting
+- vomiting with intestinal mass 
+- constant vomiting
 # The main examination method in stenosis of the pyloric part:
 + stomach examination with contrast material
 - clinical-laboratory examination
@@ -1533,11 +1656,13 @@ Hypokalemia;
 # Surgical technique during pyloromyototomy:
 + cut the serous layer and then separate the muscles.
 - cutting the pylorus down to the gills;
-- cut the serous layer and then cut the muscles with a sharp blade; - cut up to the pylorus, then add small pieces
+- cut the serous layer and then cut the muscles with a sharp blade; 
+- cut up to the pylorus, then add small pieces
 # In pylorospasm, a blood test determines:
 + In the norm of acid-alkaline environment;
 - Metabolic alkalosis;
-- Metabolic acidosis; - Hypokalemia;
+- Metabolic acidosis; 
+- Hypokalemia;
 # Symptoms of pylorospasm?
 + Vomiting with milk from birth;
 - Vomiting with "curd" from 3-4 weeks;
@@ -1546,17 +1671,18 @@ Hypokalemia;
 # Etiological factor of pylorospasm:
 + Hypersympatheticotonia;
 - Pyloric peptic stenosis;
-
-Pyloric membranous stenosis;
+-Pyloric membranous stenosis;
 - Genetic defect in the pyloric area;
-# Common X-ray sign characteristic of pylorostenosis: + stomach enlargement; anemia
+# Common X-ray sign characteristic of pylorostenosis: 
++ stomach enlargement; anemia
 - division of many bony levels in the abdominal cavity;
 - free air under the diaphragm;
 - division of 2 bony levels in the abdominal cavity;
 # In the case of pylostenosis, the following operation is performed:
 + Frede-Ramsted operation:
 - Bilrot II operation;
-- Mikulich operation; - Heller operation;
+- Mikulich operation; 
+- Heller operation;
 # Which of the following metabolic disorders is observed in pylostenosis:
 + hypochloremia;
 - hypernatremia, hyperkalemia;
@@ -1565,7 +1691,8 @@ Pyloric membranous stenosis;
 # Characteristic of feces in pylorostenosis:
 + small amount, permanent, dark green color,blood loss
 - constant diarrhea;
-- with a large amount of leftovers; - often, boneless, smelly;
+- with a large amount of leftovers; 
+- often, boneless, smelly;
 # Set the main post-operative event in the case of pylostenosis:
 + feeding little and often;
 - placing a catheter in the jugular vein;
@@ -1574,11 +1701,13 @@ Pyloric membranous stenosis;
 # How is gastric peristalsis in pylorostenosis:
 + will increase blood
 - no peristalsis;
-- antiperistaltics; - as usual;
+- antiperistaltics; 
+- as usual;
 # The leading clinical sign of pylostenosis:
 + vomiting
 - restlessness;
-- wheezing; - shaking;
+- wheezing; 
+- shaking;
 # Determine the typical vomiting for pylorostenosis:
 + Vomiting with +ivigan milk
 - vomiting with grass
@@ -1597,15 +1726,18 @@ Pyloric membranous stenosis;
 # The leading sign of pylorostenosis:
 + none of above
 - diarrhea;
-- not increasing body weight; - flatulence;
+- not increasing body weight; 
+- flatulence;
 # Pyloric pathology is considered as an etiological factor of pylorostenosis:
 + all of these
 - Peptic stenosis;
-- Hypersympatheticonia; - Vagotonia;
+- Hypersympatheticonia; 
+- Vagotonia;
 # Possible complications after pylorotomy:
 + peritonitis;
 - coprostasis;
-- ascites; - anuria;
+- ascites; 
+- anuria;
 # Urinary discharge in pylorostenosis:
 + above all are correct
 - incontinence at night;
@@ -1618,11 +1750,14 @@ Pyloric membranous stenosis;
 - Above -10%
 # The maximum amount of alcohol injected around the rectum in sclerosing therapy:
 + up to 20 ml;
-- up to 10 ml; - up to 15 ml; - up to 5 ml;
+- up to 10 ml;
+- up to 15 ml;
+- up to 5 ml;
 # Complications after Soave surgery include:
 + all of the above.
 - futlyar interval abscess;
-- intestinal stenosis between futlyar; - violation of sensitivity of the rectum;
+- intestinal stenosis between futlyar; 
+- violation of sensitivity of the rectum;
 # Is this fake cryptorchidism?
 + During palpation, the testicle can be lowered to the ground
 - during palpation, the testicle does not descend to the ground
@@ -1630,7 +1765,7 @@ Pyloric membranous stenosis;
 - the testis is located in the subcutaneous cell in the testicle
 # The examination program for a baby with false pylorostenosis includes:
 + all answers are correct
-Anamnesis collection.
+- Anamnesis collection.
 - Fibroesophagogastroscopy. - Acid-alkaline environment.
 # Congenital diaphragmatic hernia is manifested by burning signs.
 + penetration into the abdomen
@@ -1647,7 +1782,8 @@ Anamnesis collection.
 - esophagoscopy
 - tracheobronchoscopy
 - ultrasound examination
-# Clinical symptoms of congenital esophageal-tracheal fistula are manifested in which condition of the child + in horizontal position
+# Clinical symptoms of congenital esophageal-tracheal fistula are manifested in which condition of the child 
++ in horizontal position
 - in vertical position
 - when sleeping
 - when lying on the right side
@@ -1664,25 +1800,28 @@ Anamnesis collection.
 # X-ray image of congenital lower intestinal obstruction
 + many Kloiber ileum calyxes
 - muzzle symptom
-- free air under the diaphragm - uronic symptom
+- free air under the diaphragm 
+- uronic symptom
 # X-ray characteristic of congenital upper intestinal obstruction:
 + two bone levels and air on it;
 - in the upper part of the abdomen there are many Kloiber cups;
-- the presence of many Kloiber cups everywhere in the abdomen; - there is a lot of air in the intestines;
+- the presence of many Kloiber cups everywhere in the abdomen; 
+- there is a lot of air in the intestines;
 # Inflammation of the surrounding tissues of the rectum is:
 + paraproctitis
 - cryptitis
 - anus fissure
-
-anit
-# When the rectum is seen with a finger, there is no stool in it and it is open, which disease is characteristic for: + bowel obstruction;
+-anit
+# When the rectum is seen with a finger, there is no stool in it and it is open, which disease is characteristic for: 
++ bowel obstruction;
 - acute appendicitis;
 - Meckel's diverticulum;
 - rectal polyp;
 # In rectal and anal atresia, X-ray examination according to Wangenstein is carried out a few hours after the child's seizure:
 + after +16-18 hours;
 - after 2-4 hours;
-- after 8-10 hours; - birth date;
+- after 8-10 hours; 
+- birth date;
 # The main cause of congenital lobular emphysema is:
 + hypoplasia, aplasia of the bronchial tubercle
 - spatial aspiration
@@ -1701,7 +1840,8 @@ anit
 # In children, the horizontal bone level, partially collapsed lungs, chest cavity organs are not shifted in the X-ray. Diagnosis:
 + pyopneumothorax
 - tension pneumothorax
-- non-tension pneumothorax - tension pyopneumothorax
+- non-tension pneumothorax 
+- tension pyopneumothorax
 # The most optimal method of treatment for abscesses opened to the bronchus in patients:
 + bronchoscopic sanation
 - radical operation
@@ -1716,7 +1856,7 @@ anit
 + for the treatment of scar strictures
 - to prevent scarring
 - to prevent scarring
-to treat achalasia
+-to treat achalasia
 # Children may have complications of cystic lung disease (find 3 wrong ones)
 + Acute kidney failure
 + acute intestinal failure
@@ -1729,8 +1869,7 @@ to treat achalasia
 - worm intussusception
 - appendicitis
 - phytobezoar
-# Find answers that do not include the cause of intestinal intussusception in children. (Tick
-3 answers)
+# Find answers that do not include the cause of intestinal intussusception in children. (Tick 3 answers)
 + kidney polycystosis
 + congenital heart defects
 - Intestinal paresis
@@ -1810,14 +1949,16 @@ to treat achalasia
 # Show the types of cryptorchidism in children? (Tick 2 answers)
 + chow
 + abdominal
-intermediate
+-intermediate
 - chest
-# What signs are detected in acute phlegmonous appendicitis in children: (select 2 answers) + Shetkin-Blumberg
+# What signs are detected in acute phlegmonous appendicitis in children: (select 2 answers) 
++ Shetkin-Blumberg
 + Filatov-kostchui
 - Murphy
 - Ortner
 - Brochard
-# Appendicular tumor in children is determined by perforation: (select 2 answers) + muscle tension on the right side of the anterior abdominal wall, then spreading the tension to other areas
+# Appendicular tumor in children is determined by perforation: (select 2 answers) 
++ muscle tension on the right side of the anterior abdominal wall, then spreading the tension to other areas
 + Intensification of abdominal USG perforation on the abdominal wall in lateral view
 - eeirocytosis
 - Decreased body temperature
@@ -1830,11 +1971,13 @@ intermediate
 # Criterion of the effectiveness of conservative treatment in primary intestinal obstruction in infants
 + the start of stools and stools
 - cessation of abdominal pain and vomiting
-- The appearance of Kloiber's cups in the X-ray of the abdominal cavity - Normalization of blood parameters
+- The appearance of Kloiber's cups in the X-ray of the abdominal cavity 
+- Normalization of blood parameters
 # A 13-year-old boy was diagnosed with 2 degrees of varicocele. In this case, what is the treatment strategy:
 + Ivanisevich operation with staining of lymphatic vessels
 - glendvich opera
-- Conservative treatment - Winckelmann's opera
+- Conservative treatment 
+- Winckelmann's opera
 # Cause of false cryptorchidism:
 + Increaseds cremasteric muscle reflex
 - Hormonal disorders at the pituitary-hypothalamus level
@@ -1844,7 +1987,8 @@ intermediate
 - Non-healing of the vaginal tumor of the peritoneum
 - Disproportion of lymph and blood vessels
 - Increased intra-abdominal pressure
-- Urinary tract infection + none of these
+- Urinary tract infection 
++ none of these
 # Which of the following is not a type of testicular rupture:
 + Post-traumatic
 - There is a sharp formation
@@ -1858,8 +2002,10 @@ intermediate
 # Includes kidney size anomalies
 + Kidney hypoplasia
 - Renal dystopia
-- Renal impairment - Renal aplasia
-# The main symptoms of peritoneal rupture of the urinary bladder in children are: + Peritoneal symptoms, blunting of percussion sound in some areas of the abdomen, oliguria
+- Renal impairment 
+- Renal aplasia
+# The main symptoms of peritoneal rupture of the urinary bladder in children are: 
++ Peritoneal symptoms, blunting of percussion sound in some areas of the abdomen, oliguria
 - Pyuria, hematuria
 - Kidney colic
 - Bone fractures, acute urinary retention
@@ -1880,23 +2026,25 @@ intermediate
 # Which of the following developmental defects in children is always accompanied by urinary incontinence:
 + none of these
 - Posterior urethral valve
-- Intermediate type of hypospadias - Subsymphyseal epispadias
+- Intermediate type of hypospadias 
+- Subsymphyseal epispadias
 # Mixtion cystourethrography is highly informative:
 + In the valve of the highly posterior part of the urethra
 - Urinary bladder neck sclerosis
 - Urethral stenosis in girls
 - In the hypertrophy of the testicles
 # A baby was brought to the clinic with a medium-sized hernia of the umbilical system, premature birth, 3-degree cerebral circulation disorder, suspected heart failure. Your recommendation:
-
 + Conservative treatment (treatment of crusts with iodine)
 - Sew a plastic bag
 - Connect with antiseptic
 - Delayed radic al surgery
-# What types of developmental defects create conditions for cloaca formation and separation disorders? +rectochote hole
+# What types of developmental defects create conditions for cloaca formation and separation disorders? 
++rectochote hole
 -rectovesical opening
 -rectovestibular foramen
 -rectourethral opening
-# Determine the correct sequence of examination in a patient with suspected congenital stenosis of the rectum: +Medical history
+# Determine the correct sequence of examination in a patient with suspected congenital stenosis of the rectum: 
++Medical history
 - MSKT virtual colonoscopy
 - Local status
 - Irrigography
@@ -1905,10 +2053,12 @@ intermediate
 - MSKT virtual colonoscopy
 -Local status
 +Irrigography
-# "TYPE OF BOWEL OBSTRUCTION: BOWEL OBSTRUCTION CAUSES: 1. Intestinal atresia 2. Girschprung's disease 3. Intussusception 4. Pylorostenosis A. Privratnik hypertrophy B.
-Intestinal invasion C. Intestinal agangliosis G. Obliteration of intestinal cavity
+# "TYPE OF BOWEL OBSTRUCTION: BOWEL OBSTRUCTION CAUSES: 1. Intestinal atresia 2. Girschprung's disease 3. Intussusception 4. Pylorostenosis A. Privratnik hypertrophy B.Intestinal invasion C. Intestinal agangliosis G. Obliteration of intestinal cavity
 + 1A, 2b, 3C, 4G
-- 1V, 2G, 3B, 4A - 1A, 2V, 3B, 4G - 1A, 2G, 3B, 4V - 1V, 2A, 3G, 4B
+- 1V, 2G, 3B, 4A 
+- 1A, 2V, 3B, 4G 
+- 1A, 2G, 3B, 4V 
+- 1V, 2A, 3G, 4B
 # Types and causes of intestinal obstruction:
 + All answers are correct;
 - Twisting;
@@ -1931,14 +2081,16 @@ answers)
 - rectal polyp
 - opening of the posterior anal opening
 - Meckel diverticulum
-# A 6-year-old child periodically has a small amount of red blood coming out of the rectum during defecation. Diagnosis: + rectal polyp
+# A 6-year-old child periodically has a small amount of red blood coming out of the rectum during defecation. Diagnosis: 
++ rectal polyp
 - Meckel's diverticulum
 - gastric ulcer disease
 - bleeding in the abdominal cavity
 # PATHOLOGY: Treatment: 1. Girschprung's disease 2. Dolichosigma 3. Functional constipation A. Conservative treatment B. Surgery when conservative treatment fails V. Operative treatment
 - 1V, 2B, 3A
 - 1B, 2A, 3V
-- 1B, 2V, 3A - 1A, 2V, 3B
+- 1B, 2V, 3A 
+- 1A, 2V, 3B
 + 1A, 2B, 3V
 
 
