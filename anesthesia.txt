@@ -175,7 +175,12 @@
 - acute expansion of the ventricles
 -myocardial infarction
 - allergic reaction
-#The primary function of shock therapy +Restoration of OSK, improvement of microcirculation analgesia dehydration glucocorticoids
+#The primary function of shock therapy 
++Restoration of OSK,
+-improvement of microcirculation 
+-analgesia 
+-dehydration 
+-glucocorticoids
 # Factors predisposing to hemodynamic disorders
 +unreplaced blood loss
 - inadequate OSV
@@ -369,7 +374,8 @@ effect of poison on MNS structures
 -pentazocine
 -deferoxamine
 -fentanyl
-# Which type of local anesthesia is more likely to cause vascular injury? +conductor
+# Which type of local anesthesia is more likely to cause vascular injury? 
++conductor
 -paravertebral
 - presacral
 - infiltration
@@ -401,7 +407,6 @@ effect of poison on MNS structures
 # Purpose of Calypsol application
 + general anesthesia
 - regional anesthesia
-
 -dissociated anesthesia
 - neurovegetative blockade
 # Drugs used for neuroleptanalgesia
@@ -670,7 +675,8 @@ It acts as passive transport between the heart and the microcirculation system
 - in closed pneumothorax
 - in laryngospasm
 - in pneumonia
-# It is used to reduce blood coagulability and platelet disaggregation in the torpid phase of cardiogenic shock: +fibrinolysin
+# It is used to reduce blood coagulability and platelet disaggregation in the torpid phase of cardiogenic shock: 
++fibrinolysin
 -reopoliglyo`qin
 - trental
 -gelatinol
@@ -699,8 +705,11 @@ It acts as passive transport between the heart and the microcirculation system
 -decompensated respiratory acidosis with metabolic alkalosis
 - hyponatremia with metabolic alkalosis
 -blood rN is less than 7.35
-# Tachycardia cannot occur: + due to deep anesthesia
-due to superficial anesthesia --Due to OSV errors - as a result of bleeding
+# Tachycardia cannot occur: 
++ due to deep anesthesia
+-due to superficial anesthesia 
+-Due to OSV errors 
+- as a result of bleeding
 # Necessary when leaving:
 + lowering the head side and raising the legs
 -cardiac glycosides
@@ -892,7 +901,8 @@ due to superficial anesthesia --Due to OSV errors - as a result of bleeding
 - diaphragmatic hernia
 - lung tumor
 # Normal partial pressure with oxygen
-+92-95 mm Hg -60-80 mm Hg
++92-95 mm Hg 
+-60-80 mm Hg
 -75 mm Hg
 -100-110 mm Hg
 # What causes hypoxia due to hypoventilation
@@ -1418,7 +1428,8 @@ Hypercoagulation, Pathological fibrinolysis
 -Curishing and diplopia, Ptoza wa chainov movement movement soust, Phonation and damage to the larynx
 -Curishing and diplopia, Ptoza wa chainov movement soust, Limbs and body posture paresis,
 # Ratio of output within Khuzhaira and Khuzhaira organizational sector in percent
-+60:40:00 -30:70
++60:40:00 
+-30:70
 -80:20:00
 -50:50:00
 # Adams-Stokes-Morgagni syndrome and not for:
@@ -1436,14 +1447,14 @@ Hypercoagulation, Pathological fibrinolysis
 - hypoventilation
 - sodium chloride hypertonic solution
 - hyperthermia
-# Ventricles are extrasystolic and cannot come out:
-As a result of +succinylcholine
+# Ventricles are extrasystolic and cannot come out:As a result of 
++succinylcholine
 -as a result of alkalosis
-digitalis Taking the drug by mistake
+-digitalis Taking the drug by mistake
 -results of hypokalemia
 # Arrhythmia during intubation:
 + tickling the larynx with the tip of the laryngoscope
-Intravenous administration of succinylcholine
+-Intravenous administration of succinylcholine
 -premedication with atropine
 - drugs with pharmacological issues
 # What did MVB consider as a kurstki?
@@ -1461,7 +1472,8 @@ Intravenous administration of succinylcholine
 -mannitol
 - hypothesized
 -euphilin
-# Stomach resection and gastric bypass surgery for an emaciated patient with decompensated pyloric stenosis. Choose the optimal substance for general anesthesia: +fentanyl
+# Stomach resection and gastric bypass surgery for an emaciated patient with decompensated pyloric stenosis. Choose the optimal substance for general anesthesia:
++fentanyl
 - ether
 - calypso
 -neuroleptanalgesia
@@ -1517,7 +1529,8 @@ Intravenous administration of succinylcholine
 -With FOB
 # In case of acute poisoning with FOB, it is permanent and true:
 + bradycardia, miosis, hypertension
-- Kurusha angiosis, miosis, hypotension -hypersalivation, mydriasis, tachycardia
+- Kurusha angiosis, miosis, hypotension 
+-hypersalivation, mydriasis, tachycardia
 -bronchorea, mydriasis, bradycardia
 # Why is it not recommended to spray the nose when bitten by poisonous snakes and insects?
 +Intensification of lymph production and treatment of poison absorption into the lymph
@@ -1530,7 +1543,9 @@ Intravenous administration of succinylcholine
 -permanganate with potassium permanganate
 -with sodium chlorinating hypertonic solution
 # Neem vomiting in case of metabolic acidosis?
-+blood pH and paO2 control all answers are correct -get pH AND PaO2
++blood pH and paO2 control 
+-all answers are correct 
+-get pH AND PaO2
 -pH Increase PaO2 Decrease
 # Hemoglobin blockade can increase the amount of dissolved oxygen in the plasma using which method?
 + by the hyperbaric oxygenation method
@@ -1564,115 +1579,285 @@ Intravenous administration of succinylcholine
 -adrenaline is excited
 
 # Practical requirements for a syringe dispenser:
-+required speed is more diagnosed (0-120 ml/h), acoustic and light alarm device, robust good mechanism with holding profen
++required speed is more diagnosed (0-120 ml/h), 
+-acoustic and light alarm device, robust good mechanism with holding profen
 - acoustic and light alarm device
 -sturdy with good mechanism retention profen
-# What is the final diagnosis of cardiac arrest based on+ EKG- lack of pulse in peripheral arteries- Absence of pupillary reflex- EEG# Your movement in asystole+indirect heart massage- Intravenous administration of 10% Ca Cl solution- injection of novocaine- injection of soda solution into a vein# Recovery of brain functions after resuscitation is assessed according to the following+pupil narrowing- recovery of heartbeat- appearance of convulsive breathing movements- involuntary acts of urination and defecation#How much time is left to revive a child who has stopped breathing and blood circulation+3-4 min-5-10 min-10-15 min-1-2 min# What depends on the effect of force and the place of impact in closed massage of theheart+ age- the gender of the child- chest size- to body structure#Which act of external breathing is disturbed in bronchial asthma+difficult exhalation-difficult breathing-difficult breathing and exhalation- act of external breathing without pathological changes#Which abdominal pathology leads to advanced respiratory failure+ peritonitis- abdominal white line hernia- acute appendicitis- gastroenterologist#What is acute respiratory failure?+ violation of the ability of the lungs to transform venous blood into arterial blood-Used syringe 10 ml
+# What is the final diagnosis of cardiac arrest based on
++ EKG
+- lack of pulse in peripheral arteries
+- Absence of pupillary reflex
+- EEG
+# Your movement in asystole
++indirect heart massage
+- Intravenous administration of 10% Ca Cl solution
+- injection of novocaine
+- injection of soda solution into a vein
+# Recovery of brain functions after resuscitation is assessed according to the following
++pupil narrowing
+- recovery of heartbeat
+- appearance of convulsive breathing movements
+- involuntary acts of urination and defecation
+#How much time is left to revive a child who has stopped breathing and blood circulation
++3-4 min
+-5-10 min
+-10-15 min
+-1-2 min
+# What depends on the effect of force and the place of impact in closed massage of the
+heart
++ age
+- the gender of the child
+- chest size
+- to body structure
+#Which act of external breathing is disturbed in bronchial asthma
++difficult exhalation
+-difficult breathing
+-difficult breathing and exhalation
+- act of external breathing without pathological changes
+#Which abdominal pathology leads to advanced respiratory failure
++ peritonitis
+- abdominal white line hernia
+- acute appendicitis
+- gastroenterologist
+#What is acute respiratory failure?
++ violation of the ability of the lungs to transform venous blood into arterial blood
+-Used syringe 10 ml
 # Explore the unique features of modern defibrillators:
-+ presence of polarizing electrodes, biphasic discharge, monitoring of cardiac function
++ presence of polarizing electrodes, 
+-biphasic discharge, 
+-monitoring of cardiac function
 - Self-testing device
 -complexity of creation
 - the flow is two-phase flow
 
 
-- violation of ventilation- lack of oxygen as a result of perfusion disorders- lung tumor#Mechanism of physiological disturbance of diffusion in acute respiratory failure+disorders of ventilation, perfusion, diffusion- violation of alveolar ventilation and pulmonary capillary perfusion- violation of gas diffusion- violation of alveolar ventilation#What are the consequences of prolonged acute hypoxia?+ polyorgan deficiency- brain tumor-metabolic disorders- violation of blood rheology#One of the factors leading to central respiratory failure+brain tumor- kinking of the intubation tube- aspiration of gastric emptying- lung tumor#Normal partial pressure of oxygen+92-95 mm.rt.st-60-80 mm.rt.st.-75 mm.rt.st-100-110 mm.rt.s#Participation of the lungs in thermoregulation depends on this characteristic of the lungs+heat generation and release- heat generation- heat release- connection of the lungs with the thermoregulatory center#What is the cause of increased central venous pressure?+decreased heart pumping function-low OSC-slowing of blood flow in the veins- hypovolemia#Which drug improves myocardial contractility+ straphanthine-izadrin-lidocaine- Aymalin#What is the cause of ventricular extrasystole?+ hyperkalemia- alkalosis-in digitalis poisoning- taking diuretic drugs for a long time#Effect of noradrenaline+ spasm of all arteries and veins except coronary and cerebral blood vessels- expansion of arteries and spasm of veins- spasm of all veins and arteries- spasm of arteries and dilatation of veins#Which group of drugs are used to increase vascular tone+ adrenomimetics-corticosteroids- antihypoxants-stimulators of the vascular center#The ECG showed ventricular fibrillation with small waves. What to do.+electrical defibrillation- administration of calcium chloride into the central vein
-- administration of cardiac glycosides- open heart massage#The main pathogenetic factor of traumatic shock+pain- taking a cold- fear- hunger#cause of burn shock?+ thermal, chemical burns- acute expansion of the ventricles-myocardial infarction- allergic reaction# What is the main cause of septic shock?+ transfer of bacterial infection to the blood, development of toxemia- hypovolemia and blood clotting- weakening of the immune system- transfer of gr (-) microflora to the blood# Anaphylactic shock is+severe level of general anaphylactic reaction, paresis of microcirculation blood vessels- a sharp increase in peripheral resistance- acute hypoxia as a result of bronchospasm- acute hypovolemia as a result of blood loss# Where is the thermoregulation center located+ hypothalamic branch of the brain- long brain-temporal branch of the brain- brain stem# What is the main clinical sign of the development of coma?+ loss of sensation- hyperthermic syndrome- convulsion syndrome- lack of movement activity# What is the form of severe sensory impairment?+coma- somnolence- stupor- sopor# What develops in hyperosmolar coma+cellular dehydration-cellular hyperhydration- hypoglycemia- hypercalcemia# What causes toxic coma+hyperosmolality-hyposmolarity-Exo and endotoxemia-hypernatremia# Intensive therapy of a comatose state begins with the following+ ensuring airway patency, determining the cause of coma-stomach probe and enteral feeding- applying ice to the brain, central venous catheterization# It is used in hypokalemia+polarizing solution-calcium gluconate- plasma-albumin# Occurs during repeated vomiting and long-term aspiration of gastric contents
-+ metabolic alkalosis-metabolic acidosis-respiratory acidosis- respiratory alkalosis# Energy value of protein (kcal)+4-9.3-6-12# How much energy is produced when fat is completely oxidized (kcal)+4-9.3-2.3-10# Identify the antagonist of narcotic analgesics+ nalorphine-pentazocine-deferoxamine-fentanyl# General complications of local anesthesia+ total block- formation of a hematoma as a result of damage to blood vessels-traumatic damage to the nerve core-anaphylactic reactions# Fentanyl complication+ shortness of breath, stiffness of chest muscles- paroxysmal tachycardia- tachypnea-vasoconstriction# The purpose of using Calypsol+ general anesthesia- regional anesthesia-dissociated anesthesia- neurovegetative blockade# In oxygen-fluorothane anesthesia, the patient loses consciousness after a few minutes+2-4- 1-2- 3-4- 6-8# Opioid analgesic antidote+ nalorphine-unitiol-proserin-atropine# Which of the following drugs causes dissociative anesthesia?+ calypso- novocaine-thiopental sodium-propamidine# What is induction+ entry into anesthesia- premedication- basic narcosis-holding anesthesia# Which one of these drugs is considered a central analgesic+ promidol- calypso
-- sombrevin- fluoroethane# Equipment used in cardiac resuscitation+ defibrillator- Ro-6- electrocardiograph EKG-6 T- 01 - volume mete# What are the most common complications of closed heart massage?+ rib fracture- emphysema-heart trauma and rupture- liver damage and trauma# In the ECG, small-wave fibrillation of the ventricles was detected, what should be done+electro defibrillation- sending adrenaline to the central vein- administration of cardiac glycosides- open heart massage# When small-wave ventricular fibrillation is detected on the ECG+ Intravenous administration of adrenaline, calcium chloride and defibrillation- open heart massage- conducting defibrillation- send cardiac glycosides# Which type of acid-base disorder is characteristic of the early postresuscitation period+decompensated metabolic acidosis- decompensated metabolic alkalosis- decompensated respiratory alkalosis- decompensated respiratory acidosis# why Hyperventilation is dangerous?+acute narrowing of cerebral blood vessels, respiratory alkalosis- hyperoxia- hyperkamnia-respiratory acidosis#Mucolytic substances used for aerosol therapy+hydrocarbonate sodium, chymopsin and chymotrypsin-adrenaline, ephedrine, isadrine-atropine, euphilin-disfilin, no-shpa, eufilin# What causes obstruction of the upper respiratory tract with sputum?+disruption of ventilation-disruption of pulmonary capillary perfusion-disruption of gas diffusion through the alveolar membrane-disruption of chest sensitivity# The average therapeutic dose of 0.05% strafantin solution administered intravenously inheart failure (ml/kg 1 day)+0.025-0.005-0.05-1# The contractility of the myocardium is determined+ depending on the preservation of the inotropic mechanism of the myocardium-postnagruzka depending on the situation- depending on the state of prednagruzka- depending on the preservation of rhythmotropic mechanisms# What is pathological blood storage?+ accumulation of blood in the microcirculation system- filling of internal organs with blood- accumulation of blood in the macrocirculation system
-- accumulation of blood in body spaces
-
-
-
-
-
-
-
-
-
-
-
-
--
-
-
-
-
-
-
-
--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-
-
-
-
-
-
-
--
-
-
-
-
-
--
-
-
-
-
-
--
-
-
-
--
-
--
-
-
-
--
-
--
-
--
-
-
-
-
-
-
-
--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- violation of ventilation
+- lack of oxygen as a result of perfusion disorders
+- lung tumor
+#Mechanism of physiological disturbance of diffusion in acute respiratory failure
++disorders of ventilation, perfusion, diffusion
+- violation of alveolar ventilation and pulmonary capillary perfusion
+- violation of gas diffusion
+- violation of alveolar ventilation
+#What are the consequences of prolonged acute hypoxia?
++ polyorgan deficiency
+- brain tumor
+-metabolic disorders
+- violation of blood rheology
+#One of the factors leading to central respiratory failure
++brain tumor
+- kinking of the intubation tube
+- aspiration of gastric emptying
+- lung tumor
+#Normal partial pressure of oxygen
++92-95 mm.rt.st
+-60-80 mm.rt.st.
+-75 mm.rt.st
+-100-110 mm.rt.s
+#Participation of the lungs in thermoregulation depends on this characteristic of the lungs
++heat generation and release
+- heat generation
+- heat release
+- connection of the lungs with the thermoregulatory center
+#What is the cause of increased central venous pressure?
++decreased heart pumping function
+-low OSC
+-slowing of blood flow in the veins
+- hypovolemia
+#Which drug improves myocardial contractility
++ straphanthine
+-izadrin
+-lidocaine
+- Aymalin
+
+#What is the cause of ventricular extrasystole?
++ hyperkalemia
+- alkalosis
+-in digitalis poisoning
+- taking diuretic drugs for a long time
+#Effect of noradrenaline
++ spasm of all arteries and veins except coronary and cerebral blood vessels
+- expansion of arteries and spasm of veins
+- spasm of all veins and arteries
+- spasm of arteries and dilatation of veins
+#Which group of drugs are used to increase vascular tone
++ adrenomimetics
+-corticosteroids
+- antihypoxants
+-stimulators of the vascular center
+#The ECG showed ventricular fibrillation with small waves. What to do.
++electrical defibrillation
+- administration of calcium chloride into the central vein
+- administration of cardiac glycosides
+- open heart massage
+#The main pathogenetic factor of traumatic shock
++pain
+- taking a cold
+- fear
+- hunger
+#cause of burn shock?
++ thermal, chemical burns
+- acute expansion of the ventricles
+-myocardial infarction
+- allergic reaction
+# What is the main cause of septic shock?
++ transfer of bacterial infection to the blood, development of toxemia
+- hypovolemia and blood clotting
+- weakening of the immune system
+- transfer of gr (-) microflora to the blood
+# Anaphylactic shock is
++severe level of general anaphylactic reaction, paresis of microcirculation blood vessels
+- a sharp increase in peripheral resistance
+- acute hypoxia as a result of bronchospasm
+- acute hypovolemia as a result of blood loss
+# Where is the thermoregulation center located
++ hypothalamic branch of the brain
+- long brain
+-temporal branch of the brain
+- brain stem
+# What is the main clinical sign of the development of coma?
++ loss of sensation
+- hyperthermic syndrome
+- convulsion syndrome
+- lack of movement activity
+# What is the form of severe sensory impairment?
++coma
+- somnolence
+- stupor
+- sopor
+# What develops in hyperosmolar coma
++cellular dehydration
+-cellular hyperhydration
+- hypoglycemia
+- hypercalcemia
+# What causes toxic coma
++hyperosmolality
+-hyposmolarity
+-Exo and endotoxemia
+-hypernatremia
+# Intensive therapy of a comatose state begins with the following
++ ensuring airway patency, determining the cause of coma
+-stomach probe and enteral feeding
+- applying ice to the brain, central venous catheterization
+# It is used in hypokalemia
++polarizing solution
+-calcium gluconate
+- plasma
+-albumin
+# Occurs during repeated vomiting and long-term aspiration of gastric contents
+
++ metabolic alkalosis
+-metabolic acidosis
+-respiratory acidosis
+- respiratory alkalosis
+# Energy value of protein (kcal)
++4
+-9.3
+-6
+-12
+# How much energy is produced when fat is completely oxidized (kcal)
++4
+-9.3
+-2.3
+-10
+# Identify the antagonist of narcotic analgesics
++ nalorphine
+-pentazocine
+-deferoxamine
+-fentanyl
+# General complications of local anesthesia
++ total block
+- formation of a hematoma as a result of damage to blood vessels
+-traumatic damage to the nerve core
+-anaphylactic reactions
+# Fentanyl complication
++ shortness of breath, stiffness of chest muscles
+- paroxysmal tachycardia
+- tachypnea
+-vasoconstriction
+# The purpose of using Calypsol
++ general anesthesia
+- regional anesthesia
+-dissociated anesthesia
+- neurovegetative blockade
+# In oxygen-fluorothane anesthesia, the patient loses consciousness after a few minutes
++2-4
+- 1-2
+- 3-4
+- 6-8
+# Opioid analgesic antidote
++ nalorphine
+-unitiol
+-proserin
+-atropine
+# Which of the following drugs causes dissociative anesthesia?
++ calypso
+- novocaine
+-thiopental sodium
+-propamidine
+# What is induction
++ entry into anesthesia
+- premedication
+- basic narcosis
+-holding anesthesia
+# Which one of these drugs is considered a central analgesic
++ promidol
+- calypso
+- sombrevin
+- fluoroethane
+# Equipment used in cardiac resuscitation
++ defibrillator
+- Ro-6
+- electrocardiograph EKG-6 T
+- 01 
+- volume mete
+# What are the most common complications of closed heart massage?
++ rib fracture
+- emphysema
+-heart trauma and rupture
+- liver damage and trauma
+# In the ECG, small-wave fibrillation of the ventricles was detected, what should be done
++electro defibrillation
+- sending adrenaline to the central vein
+- administration of cardiac glycosides
+- open heart massage
+# When small-wave ventricular fibrillation is detected on the ECG
++ Intravenous administration of adrenaline, calcium chloride and defibrillation
+- open heart massage
+- conducting defibrillation
+- send cardiac glycosides
+# Which type of acid-base disorder is characteristic of the early postresuscitation period
++decompensated metabolic acidosis
+- decompensated metabolic alkalosis
+- decompensated respiratory alkalosis
+- decompensated respiratory acidosis
+# why Hyperventilation is dangerous?
++acute narrowing of cerebral blood vessels, respiratory alkalosis
+- hyperoxia
+- hyperkamnia
+-respiratory acidosis
+#Mucolytic substances used for aerosol therapy
++hydrocarbonate sodium, chymopsin and chymotrypsin
+-adrenaline, ephedrine, isadrine
+-atropine, euphilin
+-disfilin, no-shpa, eufilin
+# What causes obstruction of the upper respiratory tract with sputum?
++disruption of ventilation
+-disruption of pulmonary capillary perfusion
+-disruption of gas diffusion through the alveolar membrane
+-disruption of chest sensitivity
+# The average therapeutic dose of 0.05% strafantin solution administered intravenously in heart failure (ml/kg 1 day)
++0.025
+-0.005
+-0.05
+-1
+# The contractility of the myocardium is determined
++ depending on the preservation of the inotropic mechanism of the myocardium
+-postnagruzka depending on the situation
+- depending on the state of prednagruzka
+- depending on the preservation of rhythmotropic mechanisms
+# What is pathological blood storage?
++ accumulation of blood in the microcirculation system
+- filling of internal organs with blood
+- accumulation of blood in the macrocirculation system
+- accumulation of blood in body spaces
